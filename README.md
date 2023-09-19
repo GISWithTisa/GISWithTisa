@@ -1,6 +1,6 @@
 ### Hello there 👋, my name is Tisa
 #### I am a university lecturer in Urban Studies
-![I am a university lecturer in Urban Studies](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+I am a university lecturer in Urban Studies
 
 PhD and MSc:  Geography and urban planning
 
