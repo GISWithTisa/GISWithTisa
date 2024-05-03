@@ -1,13 +1,13 @@
 ### Hello there 👋, my name is Tisa
-#### I am a university lecturer in Urban Studies
+#### I am an Urban Planner and a GIS Analyst
 
 PhD and MSc:  Geography and urban planning
 
 BSc: Natural Resources Engineering
 
-Skills: GIS / Python / AutoCAD / Excel
+Skills: GIS / Python / AutoCAD / Excel / Power BI 
 
-- 🔭 I’m currently working on Street Children Project 
+- 🔭 I’m currently working on a feasibility study and investment justification plan for building density 
 - 🌱 I’m currently learning Machine learning, Power BI and Google Earth Engine. 
 - 💬 Ask me about ArcGIS Pro / Python / Data Science
 
