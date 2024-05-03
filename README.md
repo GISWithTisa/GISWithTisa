@@ -1,4 +1,4 @@
-### Hello there 👋, my name is Tisa
+### Hello there 👋, my name is Nahid Nematikutenaee. My nickname is Tisa 👋
 #### I am an Urban Planner and a GIS Analyst
 
 PhD and MSc:  Geography and urban planning
